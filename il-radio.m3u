@@ -1,0 +1,72 @@
+#EXTINF:-1 tvg-id="99fm" tvg-language="Hebrew" group-title="עידן+ רדיו" tvg-logo="https://upload.wikimedia.org/wikipedia/he/thumb/0/0a/Eco_99_fm.svg/2880px-Eco_99_fm.svg.png",ECO-99FM
+http://99.mediacast.co.il/99fm_aac
+
+#EXTINF:-1 tvg-id="102fm" tvg-language="Hebrew" group-title="עידן+רדיו" tvg-logo="https://upload.wikimedia.org/wikipedia/he/2/20/NewRadioTA.jpg",102FM רדיו תל אביב
+http://102.livecdn.biz/102fm_aac
+
+#EXTINF:-1 tvg-id="103fm" tvg-language="Hebrew" group-title="עידן+רדיו" tvg-logo="https://upload.wikimedia.org/wikipedia/he/thumb/7/72/103FM.svg/2880px-103FM.svg.png",103FM רדיו ללא הפסקה
+http://103fm.live.streamgates.net/103fm_live/1multix/icecast.audio
+
+#EXTINF:-1 tvg-id="100fm" tvg-language="Hebrew" group-title="עידן+רדיו" tvg-logo="https://upload.wikimedia.org/wikipedia/he/6/6f/Logo_radio100.jpg",100FM רדיוס
+http://100fm.streamgates.net:80/Radios100Fm
+
+#EXTINF:-1 tvg-id="bet" tvg-language="Hebrew" group-title="עידן+רדיו" tvg-logo="https://upload.wikimedia.org/wikipedia/he/thumb/e/e8/Kanbet.svg/2880px-Kanbet.svg.png",כאן ב
+https://kanlivep2event-i.akamaihd.net/hls/live/749624/749624/kanbet_mp3/chunklist.m3u8
+
+#EXTINF:-1 tvg-id="gimel" tvg-language="Hebrew" group-title="עידן+רדיו" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/KanGimel.svg/2880px-KanGimel.svg.png",כאן גימל
+https://kanlivep2event-i.akamaihd.net/hls/live/749625/749625/kangimmel_mp3/chunklist.m3u8
+
+#EXTINF:-1 tvg-id="glglz" tvg-language="Hebrew" group-title="עידן+רדיו" tvg-logo="https://upload.wikimedia.org/wikipedia/he/thumb/4/40/Galgalz.svg/2560px-Galgalz.svg.png",גלגל"צ
+http://glzwizzlv.bynetcdn.com/glglz_aac
+
+#EXTINF:-1 tvg-id="glz" tvg-language="Hebrew" group-title="עידן+רדיו" tvg-logo="https://upload.wikimedia.org/wikipedia/he/thumb/3/30/GaltzLogo.svg/1280px-GaltzLogo.svg.png",גלי צה"ל
+http://glzwizzlv.bynetcdn.com/glz_aac
+
+#EXTINF:-1 tvg-id="88" tvg-language="Hebrew" group-title="עידן+רדיו" tvg-logo="https://upload.wikimedia.org/wikipedia/he/thumb/0/09/Kan88Logo.svg/2880px-Kan88Logo.svg.png",כאן 88
+https://kanlivep2event-i.akamaihd.net/hls/live/749623/749623/kan88_mp3/chunklist.m3u8
+
+#EXTINF:-1 tvg-id="idc" tvg-language="Hebrew" group-title="עידן+רדיו" tvg-logo="https://1062fm.co.il/he/wp-content/admin-folder/pictures/site-menu_idc-logo.png",הרדיו הבינתחומי
+http://194.153.101.160:8000/idc123.mp3
+
+#EXTINF:-1 tvg-id="music" tvg-language="Hebrew" group-title="עידן+רדיו" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/KanKolMusic.svg/2880px-KanKolMusic.svg.png",כאן קול המוסיקה
+https://kanlivep2event-i.akamaihd.net/hls/live/749627/749627/kanclassical_mp3/chunklist.m3u8
+
+#EXTINF:-1 tvg-id="culture" tvg-language="Hebrew" group-title="עידן+רדיו" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/KanTarbut.svg/2880px-KanTarbut.svg.png",כאן תרבות
+https://kanlivep2event-i.akamaihd.net/hls/live/749634/749634/kantarbut_mp3/chunklist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-language="Hebrew" group-title="עידן+רדיו" tvg-logo="https://static.rlive.co.il/storage/uploads/stations/I9xTaFKUMVoknwl94vLi8QJPFFeDCJYmEHO7ZdvC.png",כאן נוסטלגי
+https://kanlivep2event-i.akamaihd.net/hls/live/749630/749630/kannostalgia_mp3/chunklist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-language="Hebrew" group-title="עידן+רדיו" tvg-logo="https://news.google.co.il/nwshp?hl=en&tab=in1&authuser=0",כאן ים תיכוני
+https://kanlivep2event-i.akamaihd.net/hls/live/749632/749632/kanyamtichoni_mp3/chunklist.m3u8
+
+#EXTINF:-1 tvg-id="reka" tvg-language="Russian" group-title="עידן+רדיו" tvg-logo="https://upload.wikimedia.org/wikipedia/he/thumb/e/ee/KanReka.svg/2880px-KanReka.svg.png",כאן Reka
+https://kanlivep2event-i.akamaihd.net/hls/live/749633/749633/kanreka_mp3/chunklist.m3u8
+
+#EXTINF:-1 tvg-id="makan" tvg-language="Arabic" group-title="עידן+רדיו" tvg-logo="https://static.rlive.co.il/storage/uploads/stations/9wIWufeXOeRUij4D8RSY1G0sgA1tFOALCzMEqMIh.png",כאן مكان
+https://kanlivep2event-i.akamaihd.net/hls/live/749628/749628/kanmakan_mp3/chunklist.m3u8
+
+#EXTINF:-1 tvg-id="persian" tvg-language="Farsi" group-title="עידן+רדיו" tvg-logo="https://static.rlive.co.il/storage/uploads/stations/TPCohuZla1bMEt3Zsqjo3oR4xZrOxOUhy5oCYoSC.png",כאן فارسی
+https://kanlivep2event-i.akamaihd.net/hls/live/749631/749631/kanfarsi_mp3/chunklist.m3u8
+
+#EXTINF:-1 tvg-id="90fm" tvg-language="Hebrew" tvg-language="Hebrew" group-title="עידן+רדיו" tvg-logo="https://www.90fm.co.il/resource/images/logo.png",90FM רדיו תשעים
+http://90.cdnwz.net/90fm
+
+#EXTINF:-1 tvg-id="97fm" tvg-language="Hebrew" group-title="עידן+רדיו" tvg-logo="https://static.rlive.co.il/storage/uploads/stations/N4qPGx4mJEAQQMCKc4vPp9CZcvjZlGlDQhSmdhlQ.png",97FM רדיו דרום
+http://audio-darom.ecast.co.il:9000/darom97fm
+
+#EXTINF:-1 tvg-id="101fm" tvg-language="Hebrew" group-title="עידן+רדיו" tvg-logo="https://static.rlive.co.il/storage/uploads/stations/zGhSUCfjHN0Xr77M7vvPNXrxFZTkRni3IaQvd7A1.png",101FM רדיו ירושלים
+http://101.cdnwz.net/101fm
+
+#EXTINF:-1 tvg-id="102fmEilat" tvg-language="Hebrew" group-title="עידן+רדיו" tvg-logo="https://static.rlive.co.il/storage/uploads/stations/XOgOY9euedYEN8qqTNbLx1sAk7EZGlsA3aMVEJvs.png",102FM רדיו קול הים האדום
+http://eilat.cdnwz.net/102fm
+
+#EXTINF:-1 tvg-id="1045fm" tvg-language="Hebrew" group-title="עידן+רדיו" tvg-logo="https://static.rlive.co.il/storage/uploads/stations/wgwAUogynCTlKcf5OW3P678fOBUss4OLREDnNQjJ.png",104.5FM רדיו צפון
+http://1045.cdnwz.net/1045fm
+
+#EXTINF:-1 tvg-id="1075fm" tvg-language="Hebrew" group-title="עידן+רדיו" tvg-logo="https://static.rlive.co.il/storage/uploads/stations/PjF12mnENrlL0lCVMyaMkpOxfup163AcLcsaRCY5.png",107.5FM רדיו חיפה
+http://1075.livecdn.biz/radiohaifa
+
+#EXTINF:-1 tvg-id="" group-title="עידן+רדיו" tvg-language="Hebrew" tvg-logo="https://static.rlive.co.il/storage/uploads/stations/nRRbrBkJXmrRWyxuDj4Ouvas4SPlXkgeNaYVY0Cv.png",קול הים התיכון
+http://www.rs.mizrahit.fm:7777
+
